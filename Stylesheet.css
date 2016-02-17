@@ -1,0 +1,43 @@
+body
+{
+    background-image: url("body-pattern.png");
+    background-repeat: repeat;
+}
+.general
+{
+    margin: 0px 20%;
+    background-image: url("general-pattern.png");
+    background-repeat: repeat;
+    box-shadow: -9px -9px 22px 0px rgba(45, 50, 50, 0.64);
+    border-radius: 14px;
+    border-color: black;
+    border: groove;
+
+}
+.myname
+{
+    text-align: center;
+    font-family: "Comic Sans MS" ;
+}
+.ava
+{
+    display: block;
+    margin: 0 auto;
+}
+.text-font
+{
+    font-family: "Trebuchet MS", "Verdana";
+    font-size: 15pt;
+
+}
+hr
+{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.45);
+    padding: 0;
+}
+p
+{
+    padding: 0 1.5%;
+}
